@@ -1,0 +1,32 @@
+# Node
+node_modules/
+
+# Build outputs
+dist/
+build/
+
+# Env files
+.env
+.env.local
+.env.*.local
+
+# Vite / caches
+.vite/
+.cache/
+.parcel-cache/
+
+# coverage
+coverage/
+
+# logs
+logs/
+*.log
+
+# Editor
+.vscode/
+.idea/
+.DS_Store
+
+# Other
+package-lock.json
+npm-debug.log*
