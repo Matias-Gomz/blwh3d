@@ -38,6 +38,7 @@ export default function ImgSolapadas() {
             onMouseEnter={() => setHovered(i)}
             onMouseLeave={() => setHovered(null)}
             
+            
           />
         ))}
       </div>

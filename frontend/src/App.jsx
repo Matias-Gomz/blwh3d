@@ -11,11 +11,12 @@ function App() {
 
   return (
     <>
-      <body>
-        <Navbar></Navbar>
-        
+      <body class="overflow-x-hidden">
+        <Navbar></Navbar>        
         
         <ImgSolapadas/>
+
+        
         
       </body>
 
